@@ -1,6 +1,6 @@
 # vue-todos
 
-This app has been created by me Albert Arakelyan with help of [Vue 3 crach course](https://www.youtube.com/watch?v=KTFH4P8unUQ) made by [John Komarnicki](https://www.youtube.com/@JohnKomarnicki) for being up to date with Vue 3, Vite and refreshing my knowledge and leraning Composition Api fully.
+This app has been created with help of [Vue 3 crach course](https://www.youtube.com/watch?v=KTFH4P8unUQ) made by [John Komarnicki](https://www.youtube.com/@JohnKomarnicki) for being up to date with Vue 3, Vite and refreshing my knowledge and leraning Composition Api fully.
 
 ### Special thanks to the creator of this content!
 
